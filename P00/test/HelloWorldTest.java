@@ -20,6 +20,7 @@ public class HelloWorldTest {
 		System.out.println("This is the testcase for HelloWorld");
 		String str1 = "This is the testcase for HelloWorld";
 		String str2 = "This is the testcase for HelloWorld";
+	
 		assertEquals(str1, str2);
 	}
 
