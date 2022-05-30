@@ -50,7 +50,7 @@ public class CalculatorTest {
 	public void testMultiply() {
 		int a = 10;
 		int b = 5;
-		
+
 		Calculator cal = new Calculator();
 		int actual = cal.multiply(a, b);
 		
