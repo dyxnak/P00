@@ -23,5 +23,4 @@ public class HelloWorldTest {
 	
 		assertEquals(str1, str2);
 	}
-
 }
