@@ -39,7 +39,7 @@ public class CalculatorTest {
 	public void testSubtract() {
 		int a = 10;
 		int b = 5;
-		
+	
 		Calculator cal = new Calculator();
 		int actual = cal.subtract(a, b);
 		
